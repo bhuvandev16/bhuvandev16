@@ -51,8 +51,8 @@
 ## 🤝 Connect With Me:
 
 <div align="center">
-  <a href="https://twitter.com/iam_bhuvan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_bhuvan_" height="30" width="40" /></a>
-<a href="https://instagram.com/iam_bhuvan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_bhuvan__" height="30" width="40" /></a>
+  <a href="https://twitter.com/iam_bhuvan_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_bhuvan_" height="30" width="40" /></a>
+<a href="https://instagram.com/iam_bhuvan__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_bhuvan__" height="30" width="40" /></a>
 </div>
 
 <br>
