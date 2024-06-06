@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jbhuvanesh16@gmail.com**
 
-- ⚡ Fun fact **I'm just 14**
+- ⚡ Fun fact **I'm just 15**
 
 <br>
 <div align="center">
