@@ -6,7 +6,7 @@
 
 # 🙋‍♂️ About Me:
 
-- 🛠️ I’m currently building my [Personal Brand](https://www.instagram.com/iam_bhuvan__/)
+- 🛠️ I’m currently building my [Personal Brand](https://x.com/iam_bhuvan_)
 
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/bhuvandev16?tab=repositories)**.
 
